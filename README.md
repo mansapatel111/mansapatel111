@@ -3,7 +3,8 @@
 - I’m big on continuously learning and building my skills, and believe taking initiative is key to growth.
 - I’m looking to leverage and grow my skills in an internship or research project where I can contribute to exciting projects and learn from industry professionals- got any leads? Let me know! [Linkedin](https://www.linkedin.com/in/mansa-patel/)
 
-📫 How to reach me: mansapatel111@gmail.com 
+📫 How to reach me
+- Email: mansapatel111@gmail.com 
 
 🎓 Education
 - BSE in Computer Science, University of Florida, expected Spring 2026
