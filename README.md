@@ -1,5 +1,5 @@
 👋 Hi, I’m @mansapatel111
-- I am Mansa, I'm a third year CS major at University of Florida, with interests in software engineering and data science!
+- I'm Mansa, I'm a third year CS major at University of Florida, with interests in software engineering and data science!
 - I’m big on continuously learning and building my skills, and believe taking initiative is key to growth.
 - I’m looking to leverage and grow my skills in an internship or research project where I can contribute to exciting projects and learn from industry professionals- got any leads? Let me know! [Linkedin](https://www.linkedin.com/in/mansa-patel/)
 
