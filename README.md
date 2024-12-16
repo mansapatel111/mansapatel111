@@ -21,7 +21,7 @@
 
 🛠️ Experience
 - Machine Learning Intern, BreakThrough Tech AI: Worked on tech article analysis using Neo4j, sentiment analysis, and data visualization for actionable insights.
-- Teaching Assisstant, UF CS Department: Led Lab lectures, created exams for 700+ students, provided office hour support and personalized assistance to help students excel in computer 
+- Teaching Assisstant, UF CS Department: Led lab lectures, created exams for 700+ students, provided office hour support and personalized assistance to help students excel in computer 
   science courses, with a focus on python programming fundamentals class.
 - Research Assisstant, UF Health: Assissting in a research team focused on developing deep learning neural networks for cardiovascular disease prediction among patients.
 - Fullstack SWE Intern, FLagIt: Developed frontend features for an emotional health tracking app called FlagIt, using Flask and React.
