@@ -13,7 +13,7 @@
 - Tools: Notion, Figma, GitHub, Jira, Google Cloud Platform
 
 💻 Recent Project for Accenture through Break Through Tech AI: [Repo](https://github.com/oyu-e/btt-accenture1c/tree/main)  
-- What we did: This project, Technology News Insights Engine, was developed as part of the AI Studio Challenge with Accenture and Breakthrough Tech. The goal was to explore and analyze technology news articles, providing insights through detailed visualizations and analysis.
+- What we did: This project, Technology News Insights Engine, was developed as part of the AI Studio Challenge with Accenture and Breakthrough Tech. The goal was to explore and analyze technology news articles, providing insights through detailed visualizations and analysis. This tool summarizes tech articles using machine learning, with a Neo4j-backed sentiment analysis pipeline.
 - What we used: Python, Neo4J, SpaCy, Nltk
 
 🛠️ Experience
