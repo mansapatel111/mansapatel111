@@ -14,7 +14,8 @@
 - Languages: Python, JavaScript (React, Node.js), C++, Swift, HTML/CSS, ARM64 assembly
 - Technologies: React, Flask, MongoDB,  Neo4j
 - Tools: Notion, Figma, GitHub, Jira, Google Cloud Platform
-- Won Best XR at WingHacks and Best Zoom API tracj at Stanford University's Tree Hacks
+- Best Zoom API track at Stanford University's Tree Hacks (Selected as one of the 1000 hackers from 12,000+ applicants)
+- Best XR App at WingHacks 
 
 💻 Recent Project for Accenture through Break Through Tech AI: [Repo](https://github.com/oyu-e/btt-accenture1c/tree/main)  
 - What we did: This project, Technology News Insights Engine, was developed as part of the AI Studio Challenge with Accenture and Breakthrough Tech. The goal was to explore and analyze technology news articles, providing insights through detailed visualizations and analysis. This tool summarizes tech articles using machine learning, with a Neo4j-backed sentiment analysis pipeline.
