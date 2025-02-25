@@ -11,8 +11,8 @@
 - Minors: Mathematics and Engineering Innovation, AI Specialization 
 
 🌟 Key Skills and Achievements
-- Languages: Python, JavaScript (React, Node.js), C++, Swift, HTML/CSS, ARM64 assembly
-- Technologies: React, Flask, MongoDB,  Neo4j
+- Languages: Python, JavaScript (React, Node.js), TypeScript, C++, Swift, HTML/CSS, ARM64 assembly
+- Technologies: React, Flask, MongoDB,  Neo4j, PyTorch, TensorFlow, Scikit-Learn
 - Tools: Notion, Figma, GitHub, Jira, Google Cloud Platform
 - Best Zoom API track at Stanford University's Tree Hacks (Selected as one of the 1000 hackers from 12,000+ applicants)
 - Best XR App at WingHacks 
