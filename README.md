@@ -18,9 +18,35 @@
 - Best Zoom API track at Stanford University's Tree Hacks (Selected as one of the 1000 hackers from 12,000+ applicants)
 - Best AR/VR App at WingHacks 
 
-💻 Recent Project for Accenture through Break Through Tech AI: [Repo](https://github.com/oyu-e/btt-accenture1c/tree/main)  
-- What we did: This project, Technology News Insights Engine, was developed as part of the AI Studio Challenge with Accenture and Breakthrough Tech. The goal was to explore and analyze technology news articles, providing insights through detailed visualizations and analysis. This tool summarizes tech articles using machine learning, with a Neo4j-backed sentiment analysis pipeline. Built an NLP model for news tracking to find the best fit startups for accenture clients. 
-- What we used: Python, Neo4J, SpaCy, Nltk
+💻 Recent Projects
+🏢 Technology News Insights Engine - Accenture AI Studio Challenge: Repo
+
+What we did: Developed an intelligent news analytics platform for Accenture's AI Studio Challenge through Breakthrough Tech AI to match startups with client needs. Engineered a graph-based sentiment analysis pipeline using Neo4j to model relationships between technology trends, companies, and news sentiment. Built a custom NLP processing system using SpaCy for named entity recognition and NLTK for sentiment classification, enabling automated extraction of key insights from technology news articles. Implemented machine learning models to track emerging tech trends and generate comprehensive visualizations identifying optimal startup-client pairings based on domain expertise, market sentiment, and innovation metrics.
+What we used: Python, Neo4j (Graph Database), SpaCy (NER), NLTK (Sentiment Analysis), Machine Learning, Data Visualization
+
+
+🔬 Uncertainty-Aware Skin Cancer Classifier with Fairness Auditing: Repo
+
+What we did: Built a production-grade melanoma detection system combining deep learning with Bayesian uncertainty quantification and demographic fairness auditing. Implemented Monte Carlo Dropout (50 inference passes) to generate prediction confidence intervals and predictive entropy scores, enabling automatic flagging of uncertain cases for clinical deferral. Conducted comprehensive fairness analysis across sex, age groups, and anatomical locations to identify and mitigate demographic disparities in diagnostic accuracy.
+What we used: PyTorch, EfficientNet-B0, Monte Carlo Dropout, Cosine Annealing Scheduler, Class-Weighted Loss, Gradio, scikit-learn
+
+
+🎨 Art Beyond Sight - Multimodal AI Accessibility Platform: Repo
+
+What we did: Engineered a cross-platform mobile application transforming visual art into immersive auditory experiences through a sophisticated AI pipeline. Architected a three-stage workflow: (1) Mistral Navigator for vision analysis and contextual metadata extraction, (2) Suno AI for emotion-driven music generation mapped from visual elements, and (3) MongoDB caching layer for sub-500ms retrieval. Implemented WCAG AAA-compliant accessibility features including dual TTS systems (VoiceOver/TalkBack + Unreal Speech), adjustable speech parameters, haptic feedback, and screen reader integration with semantic focus management.
+What we used: React Native, Expo, FastAPI, MongoDB Atlas, Mistral AI Navigator, Suno AI, Unreal Speech TTS, TypeScript, Python
+
+
+🧠 Multimodal ADHD Prediction System - WiDS Datathon 2025: Repo
+
+What we did: Engineered a hybrid deep learning architecture for dual-task classification (ADHD diagnosis and sex prediction) using functional neuroimaging and behavioral data. Designed a Graph Neural Network to model brain region connectivity patterns from fMRI data, combined with dense neural networks processing socio-demographic features through embedding layers. Implemented selective imputation regression for systematic missing data handling and deployed XGBoost ensemble with Optuna-based hyperparameter optimization. Addressed severe class imbalance using SMOTE augmentation and achieved interpretable predictions through SHAP analysis, identifying executive control regions as key predictors. Built complete preprocessing pipeline ensuring feature alignment between training and test data.
+What we used: PyTorch Geometric (GNN), XGBoost, Optuna, SMOTE, SHAP, scikit-learn, PCA, Stratified K-Fold CV, Python
+
+
+🌲 Noteworthy - Real-Time AI Lecture Visualization System: Repo | Devpost
+
+What we did: Developed a multimodal AI-powered lecture companion that transforms speech into real-time visual representations during live lectures. Engineered a full-stack pipeline integrating Zoom WebSocket technology for live audio capture, custom JSON-to-text parsers for dynamic transcript generation, and LLM-driven natural language processing to extract key concepts. Implemented OpenAI API integration to generate P5.js code for real-time sketch rendering, creating standardized visual representations of abstract concepts as lectures progress. Built an intelligent note-taking workspace with multi-source media integration (PDFs, chatbots), leveraging Perplexity AI for automated summarization and resource recommendations, and Gemini AI for context-aware Q&A. Designed collaborative features with Zoom Calendar API integration for automatic course organization and seamless note sharing across devices.
+What we used: Zoom API (WebSocket, Calendar), OpenAI API, Perplexity AI, Gemini AI, P5.js, React, Node.js, Python, Playwright API, Ngrok, HTML/CSS, Bash, Postman
 
 🛠️ Experience
 - AI/ML Intern, DELL Technologies: Built an Agentic AI workflow automation system for Dell Life Cycle Hub service, streamlining asset data processing for 2k+  global clients. Developed a machine learning classification model to predict configuration matrices and categorize customer asset data. Designed a refined data categorization pipeline to speed up error processing by 30% for PSAS Troubleshooting AI Agent
