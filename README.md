@@ -19,34 +19,37 @@
 - Best AR/VR App at WingHacks 
 
 💻 Recent Projects
-🏢 Technology News Insights Engine - Accenture AI Studio Challenge: Repo
 
-What we did: Developed an intelligent news analytics platform for Accenture's AI Studio Challenge through Breakthrough Tech AI to match startups with client needs. Engineered a graph-based sentiment analysis pipeline using Neo4j to model relationships between technology trends, companies, and news sentiment. Built a custom NLP processing system using SpaCy for named entity recognition and NLTK for sentiment classification, enabling automated extraction of key insights from technology news articles. Implemented machine learning models to track emerging tech trends and generate comprehensive visualizations identifying optimal startup-client pairings based on domain expertise, market sentiment, and innovation metrics.
-What we used: Python, Neo4j (Graph Database), SpaCy (NER), NLTK (Sentiment Analysis), Machine Learning, Data Visualization
+🎨 Art Beyond Sight - Multimodal AI Accessibility Platform: [[Repo](https://github.com/oyu-e/btt-accenture1c/tree/main)](https://github.com/elinakocarslan/ArtBeyondSight)
 
-
-🔬 Uncertainty-Aware Skin Cancer Classifier with Fairness Auditing: Repo
-
-What we did: Built a production-grade melanoma detection system combining deep learning with Bayesian uncertainty quantification and demographic fairness auditing. Implemented Monte Carlo Dropout (50 inference passes) to generate prediction confidence intervals and predictive entropy scores, enabling automatic flagging of uncertain cases for clinical deferral. Conducted comprehensive fairness analysis across sex, age groups, and anatomical locations to identify and mitigate demographic disparities in diagnostic accuracy.
-What we used: PyTorch, EfficientNet-B0, Monte Carlo Dropout, Cosine Annealing Scheduler, Class-Weighted Loss, Gradio, scikit-learn
+- What I did: Engineered a cross-platform mobile application transforming visual art into immersive auditory experiences through a sophisticated AI pipeline. Architected a three-stage workflow: (1) Mistral Navigator for vision analysis and contextual metadata extraction, (2) Suno AI for emotion-driven music generation mapped from visual elements, and (3) MongoDB caching layer for sub-500ms retrieval. Implemented WCAG AAA-compliant accessibility features including dual TTS systems (VoiceOver/TalkBack + Unreal Speech), adjustable speech parameters, haptic feedback, and screen reader integration with semantic focus management.
+  
+- Tech Stack: React Native, Expo, FastAPI, MongoDB Atlas, Mistral AI Navigator, Suno AI, Unreal Speech TTS, TypeScript, Python
 
 
-🎨 Art Beyond Sight - Multimodal AI Accessibility Platform: Repo
+🧠 Multimodal ADHD Prediction System - WiDS Datathon 2025: [Repo](https://github.com/AIStudio-TeamAxons/AI-Studio-WiDS-Team-Axons)
 
-What we did: Engineered a cross-platform mobile application transforming visual art into immersive auditory experiences through a sophisticated AI pipeline. Architected a three-stage workflow: (1) Mistral Navigator for vision analysis and contextual metadata extraction, (2) Suno AI for emotion-driven music generation mapped from visual elements, and (3) MongoDB caching layer for sub-500ms retrieval. Implemented WCAG AAA-compliant accessibility features including dual TTS systems (VoiceOver/TalkBack + Unreal Speech), adjustable speech parameters, haptic feedback, and screen reader integration with semantic focus management.
-What we used: React Native, Expo, FastAPI, MongoDB Atlas, Mistral AI Navigator, Suno AI, Unreal Speech TTS, TypeScript, Python
+- What I did: Engineered a hybrid deep learning architecture for dual-task classification (ADHD diagnosis and sex prediction) using functional neuroimaging and behavioral data. Designed a Graph Neural Network to model brain region connectivity patterns from fMRI data, combined with dense neural networks processing socio-demographic features through embedding layers. Implemented selective imputation regression for systematic missing data handling and deployed XGBoost ensemble with Optuna-based hyperparameter optimization. Addressed severe class imbalance using SMOTE augmentation and achieved interpretable predictions through SHAP analysis, identifying executive control regions as key predictors. Built complete preprocessing pipeline ensuring feature alignment between training and test data.
+  
+- Tech Stack: PyTorch Geometric (GNN), XGBoost, Optuna, SMOTE, SHAP, scikit-learn, PCA, Stratified K-Fold CV, Python
+
+🔬 Uncertainty-Aware Skin Cancer Classifier with Fairness Auditing: [Repo](https://github.com/mansapatel111/skin-cancer-classifier)
+
+- What I did: Built a production-grade melanoma detection system combining deep learning with Bayesian uncertainty quantification and demographic fairness auditing. Implemented Monte Carlo Dropout (50 inference passes) to generate prediction confidence intervals and predictive entropy scores, enabling automatic flagging of uncertain cases for clinical deferral. Conducted comprehensive fairness analysis across sex, age groups, and anatomical locations to identify and mitigate demographic disparities in diagnostic accuracy.
+  
+- Tech Stack: PyTorch, EfficientNet-B0, Monte Carlo Dropout, Cosine Annealing Scheduler, Class-Weighted Loss, Gradio, scikit-learn
 
 
-🧠 Multimodal ADHD Prediction System - WiDS Datathon 2025: Repo
+🌲 Noteworthy - Real-Time AI Lecture Visualization System: [Repo](https://github.com/arushisharmaa/stanford-tree-hacks-) | [Devpost](https://devpost.com/software/noteworthy-visualize-capture-remember)
 
-What we did: Engineered a hybrid deep learning architecture for dual-task classification (ADHD diagnosis and sex prediction) using functional neuroimaging and behavioral data. Designed a Graph Neural Network to model brain region connectivity patterns from fMRI data, combined with dense neural networks processing socio-demographic features through embedding layers. Implemented selective imputation regression for systematic missing data handling and deployed XGBoost ensemble with Optuna-based hyperparameter optimization. Addressed severe class imbalance using SMOTE augmentation and achieved interpretable predictions through SHAP analysis, identifying executive control regions as key predictors. Built complete preprocessing pipeline ensuring feature alignment between training and test data.
-What we used: PyTorch Geometric (GNN), XGBoost, Optuna, SMOTE, SHAP, scikit-learn, PCA, Stratified K-Fold CV, Python
+- What I did: Developed a multimodal AI-powered lecture companion that transforms speech into real-time visual representations during live lectures. Engineered a full-stack pipeline integrating Zoom WebSocket technology for live audio capture, custom JSON-to-text parsers for dynamic transcript generation, and LLM-driven natural language processing to extract key concepts. Implemented OpenAI API integration to generate P5.js code for real-time sketch rendering, creating standardized visual representations of abstract concepts as lectures progress. Built an intelligent note-taking workspace with multi-source media integration (PDFs, chatbots), leveraging Perplexity AI for automated summarization and resource recommendations, and Gemini AI for context-aware Q&A. Designed collaborative features with Zoom Calendar API integration for automatic course organization and seamless note sharing across devices.
+  
+- Tech Stack: Zoom API (WebSocket, Calendar), OpenAI API, Perplexity AI, Gemini AI, P5.js, React, Node.js, Python, Playwright API, Ngrok, HTML/CSS, Bash, Postman
 
-
-🌲 Noteworthy - Real-Time AI Lecture Visualization System: Repo | Devpost
-
-What we did: Developed a multimodal AI-powered lecture companion that transforms speech into real-time visual representations during live lectures. Engineered a full-stack pipeline integrating Zoom WebSocket technology for live audio capture, custom JSON-to-text parsers for dynamic transcript generation, and LLM-driven natural language processing to extract key concepts. Implemented OpenAI API integration to generate P5.js code for real-time sketch rendering, creating standardized visual representations of abstract concepts as lectures progress. Built an intelligent note-taking workspace with multi-source media integration (PDFs, chatbots), leveraging Perplexity AI for automated summarization and resource recommendations, and Gemini AI for context-aware Q&A. Designed collaborative features with Zoom Calendar API integration for automatic course organization and seamless note sharing across devices.
-What we used: Zoom API (WebSocket, Calendar), OpenAI API, Perplexity AI, Gemini AI, P5.js, React, Node.js, Python, Playwright API, Ngrok, HTML/CSS, Bash, Postman
+🏢 Technology News Insights Engine - Accenture AI Studio Challenge: [Repo](https://github.com/oyu-e/btt-accenture1c/tree/main)
+- What we did: Developed an intelligent news analytics platform for Accenture's AI Studio Challenge through Breakthrough Tech AI to match startups with client needs. Engineered a graph-based sentiment analysis pipeline using Neo4j to model relationships between technology trends, companies, and news sentiment. Built a custom NLP processing system using SpaCy for named entity recognition and NLTK for sentiment classification, enabling automated extraction of key insights from technology news articles. Implemented machine learning models to track emerging tech trends and generate comprehensive visualizations identifying optimal startup-client pairings based on domain expertise, market sentiment, and innovation metrics.
+  
+- Tech Stack: Python, Neo4j (Graph Database), SpaCy (NER), NLTK (Sentiment Analysis), Machine Learning, Data Visualization
 
 🛠️ Experience
 - AI/ML Intern, DELL Technologies: Built an Agentic AI workflow automation system for Dell Life Cycle Hub service, streamlining asset data processing for 2k+  global clients. Developed a machine learning classification model to predict configuration matrices and categorize customer asset data. Designed a refined data categorization pipeline to speed up error processing by 30% for PSAS Troubleshooting AI Agent
