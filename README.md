@@ -20,13 +20,6 @@
 
 💻 Recent Projects
 
-🎨 Art Beyond Sight - Multimodal AI Accessibility Platform: [Repo](https://github.com/elinakocarslan/ArtBeyondSight)
-
-- What I did: Engineered a cross-platform mobile application transforming visual art into immersive auditory experiences through a sophisticated AI pipeline. Architected a three-stage workflow: (1) Mistral Navigator for vision analysis and contextual metadata extraction, (2) Suno AI for emotion-driven music generation mapped from visual elements, and (3) MongoDB caching layer for sub-500ms retrieval. Implemented WCAG AAA-compliant accessibility features including dual TTS systems (VoiceOver/TalkBack + Unreal Speech), adjustable speech parameters, haptic feedback, and screen reader integration with semantic focus management.
-  
-- Tech Stack: React Native, Expo, FastAPI, MongoDB Atlas, Mistral AI Navigator, Suno AI, Unreal Speech TTS, TypeScript, Python
-
-
 🧠 Multimodal ADHD Prediction System - WiDS Datathon 2025: [Repo](https://github.com/AIStudio-TeamAxons/AI-Studio-WiDS-Team-Axons)
 
 - What I did: Engineered a hybrid deep learning architecture for dual-task classification (ADHD diagnosis and sex prediction) using functional neuroimaging and behavioral data. Designed a Graph Neural Network to model brain region connectivity patterns from fMRI data, combined with dense neural networks processing socio-demographic features through embedding layers. Implemented selective imputation regression for systematic missing data handling and deployed XGBoost ensemble with Optuna-based hyperparameter optimization. Addressed severe class imbalance using SMOTE augmentation and achieved interpretable predictions through SHAP analysis, identifying executive control regions as key predictors. Built complete preprocessing pipeline ensuring feature alignment between training and test data.
