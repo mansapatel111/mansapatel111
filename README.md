@@ -19,6 +19,11 @@
 - Best AR/VR App at WingHacks 
 
 💻 Recent Projects
+🎨 Art Beyond Sight - Multimodal AI Accessibility Platform: [Repo](https://github.com/elinakocarslan/ArtBeyondSight)
+
+- What I did: Engineered a cross-platform mobile application transforming visual art into immersive auditory experiences through a sophisticated AI pipeline. Architected a three-stage workflow: (1) Mistral Navigator for vision analysis and contextual metadata extraction, (2) Suno AI for emotion-driven music generation mapped from visual elements, and (3) MongoDB caching layer for sub-500ms retrieval. Implemented WCAG AAA-compliant accessibility features including dual TTS systems (VoiceOver/TalkBack + Unreal Speech), adjustable speech parameters, haptic feedback, and screen reader integration with semantic focus management.
+  
+- Tech Stack: React Native, Expo, Overshoot, FastAPI, MongoDB Atlas, Mistral AI Navigator, Suno AI, Unreal Speech TTS, TypeScript, Python
 
 🧠 Multimodal ADHD Prediction System - WiDS Datathon 2025: [Repo](https://github.com/AIStudio-TeamAxons/AI-Studio-WiDS-Team-Axons)
 
