@@ -15,10 +15,11 @@
 - Technologies: MongoDB,  Neo4j, PyTorch, TensorFlow, Scikit-Learn, Postgre SQL, Pandas, NumPy, SciKit, Matplotlib, Tableau
 
 - Tools: Notion, Figma, GitHub, Jira, Google Cloud Platform
-- Best Zoom API track at Stanford University's Tree Hacks (Selected as one of the 1000 hackers from 12,000+ applicants)
+- Best Zoom track at Stanford University's Tree Hacks (Selected as one of the 1000 hackers from 12,000+ applicants)
 - Best AR/VR App at WingHacks 
 
 💻 Recent Projects
+
 🎨 Art Beyond Sight - Multimodal AI Accessibility Platform: [Repo](https://github.com/elinakocarslan/ArtBeyondSight)
 
 - What I did: Engineered a cross-platform mobile application transforming visual art into immersive auditory experiences through a sophisticated AI pipeline. Architected a three-stage workflow: (1) Mistral Navigator for vision analysis and contextual metadata extraction, (2) Suno AI for emotion-driven music generation mapped from visual elements, and (3) MongoDB caching layer for sub-500ms retrieval. Implemented WCAG AAA-compliant accessibility features including dual TTS systems (VoiceOver/TalkBack + Unreal Speech), adjustable speech parameters, haptic feedback, and screen reader integration with semantic focus management.
