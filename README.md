@@ -1,7 +1,7 @@
 👋 Hi, I’m @mansapatel111
 - I'm Mansa, I'm a fourth year CS major at University of Florida, with interests in AI/ML and software engineering!
 - I’m big on continuously learning and building my skills, and believe taking initiative is key to growth.
-- I’m looking to leverage and grow my skills in an internship or research project where I can contribute to exciting projects and learn from industry professionals- got any leads? Let me know! [Linkedin](https://www.linkedin.com/in/mansa-patel/)
+- Always looking to leverage my skills at hackathons, working on research projectsor startups - got any leads? Let me know! [Linkedin](https://www.linkedin.com/in/mansa-patel/)
 
 📫 How to reach me
 - Email: mansapatel111@gmail.com 
