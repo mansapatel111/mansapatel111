@@ -8,7 +8,7 @@
 
 🎓 Education
 - BSE in Computer Science, University of Florida, expected Spring 2026
-- Minors: Mathematics and Engineering Innovation, AI/ML and Product Management Specialization 
+- Minors: Mathematics and Engineering Innovation, AI/ML and Product Management Certificate
 
 🌟 Key Skills and Achievements
 - Languages: Python, JavaScript (React, Node.js), TypeScript, C++, C, Swift, HTML/CSS, ARM64 assembly
